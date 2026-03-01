@@ -3,7 +3,7 @@
 ## 本项目于2025-10-28停止维护
 
 
-### **文档**： [完整文档](https://github.com/cluic/wxauto/blob/main/docs/README.md)
+### **文档**： [完整文档](https://github.com/SiverKing/wxauto/blob/main/docs/README.md)
 
 
 |  环境  | 版本 |
@@ -15,7 +15,7 @@
 
 ## 联系
 
-Email: louxinghao@gmail.com
+Email: www.siver.top@gmail.com
 
 ## 免责声明
 代码仅用于对UIAutomation技术的交流学习使用，禁止用于实际生产项目，请勿用于非法用途和商业用途！如因此产生任何法律纠纷，均与作者无关！
